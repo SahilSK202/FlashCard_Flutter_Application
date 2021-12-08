@@ -36,37 +36,37 @@ A data.csv file can be found in assets/data/data.csv which includes topics , que
 
 ## App Launch Icon and Name
 
-<img src="https://github.com/SahilSK202/FlashCard_Flutter_Application/blob/main/assets/images/1.png" width="300" height="500">
+<img src="https://github.com/SahilSK202/FlashCard_Flutter_Application/blob/main/assets/images/1.png?raw=true" width="300" height="500">
 
 ## First Look
 
-<img src="https://github.com/SahilSK202/FlashCard_Flutter_Application/blob/main/assets/images/2.png" width="300" height="500">
+<img src="https://github.com/SahilSK202/FlashCard_Flutter_Application/blob/main/assets/images/2.png?raw=true" width="300" height="500">
 
 ## If data is not present
 
-<img src="https://github.com/SahilSK202/FlashCard_Flutter_Application/blob/main/assets/images/3.png" width="300" height="500">
+<img src="https://github.com/SahilSK202/FlashCard_Flutter_Application/blob/main/assets/images/3.png?raw=true" width="300" height="500">
 
 ## Question View
 
-<img src="https://github.com/SahilSK202/FlashCard_Flutter_Application/blob/main/assets/images/4.png" width="300" height="500">
+<img src="https://github.com/SahilSK202/FlashCard_Flutter_Application/blob/main/assets/images/4.png?raw=true" width="300" height="500">
 
 ## Answer View
 
-<img src="https://github.com/SahilSK202/FlashCard_Flutter_Application/blob/main/assets/images/5.png" width="300" height="500">
+<img src="https://github.com/SahilSK202/FlashCard_Flutter_Application/blob/main/assets/images/5.png?raw=true" width="300" height="500">
 
-<img src="https://github.com/SahilSK202/FlashCard_Flutter_Application/blob/main/assets/images/6.png" width="300" height="500">
+<img src="https://github.com/SahilSK202/FlashCard_Flutter_Application/blob/main/assets/images/6.png?raw=true" width="300" height="500">
 
 ## Menu Items
 
-<img src="https://github.com/SahilSK202/FlashCard_Flutter_Application/blob/main/assets/images/7.png" width="300" height="500">
+<img src="https://github.com/SahilSK202/FlashCard_Flutter_Application/blob/main/assets/images/7.png?raw=true" width="300" height="500">
 
 ## About Us
 
-<img src="https://github.com/SahilSK202/FlashCard_Flutter_Application/blob/main/assets/images/8.png" width="300" height="500">
+<img src="https://github.com/SahilSK202/FlashCard_Flutter_Application/blob/main/assets/images/8.png?raw=true" width="300" height="500">
 
 ## Exit pop-up
 
-<img src="https://github.com/SahilSK202/FlashCard_Flutter_Application/blob/main/assets/images/9.png" width="300" height="500">
+<img src="https://github.com/SahilSK202/FlashCard_Flutter_Application/blob/main/assets/images/9.png?raw=true" width="300" height="500">
 
 ## Further Improvements
 
